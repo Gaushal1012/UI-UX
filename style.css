@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+p{
+    margin-bottom: 0px;
+}
+
+h1{
+    color: #293b8f;
+}
+
+ul li{
+    color: #747474;
+}
+
+ul li:hover{
+    color: #293b8f;
+    font-weight: 600;
+}
+
+p{
+    color: #747474;
+}
+
+.services{
+    background-color: #dfdddd;
+}
+
+.readMore{
+    color: #1e74a7;
+}
+
+.footer{
+    background-color: #293b8f;
+}
+
+.fpara{
+    color: white;
+}
